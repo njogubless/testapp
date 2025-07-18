@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377087127626",
+    "project_id": "reflection-on-faith",
+    "storage_bucket": "reflection-on-faith.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377087127626:android:034b94c9605c488be0f6b3",
+        "android_client_info": {
+          "package_name": "com.example.devotion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_nTHB_CclhRjdtq2p2AZoLRSb1l4-Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377087127626:android:beb18cfdd222bd89e0f6b3",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_nTHB_CclhRjdtq2p2AZoLRSb1l4-Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
